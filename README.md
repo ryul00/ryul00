@@ -69,7 +69,7 @@
 
 ### 📬 Contact
 - Email: gju07059@naver.com / gju07059@gmail.com
-- GitHub: ryeol00 (https://github.com/ryeol00)
+- GitHub: ryul00 (https://github.com/ryul00)
 
 ---
 
