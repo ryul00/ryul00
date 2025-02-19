@@ -104,7 +104,7 @@
   </tr>
   <tr>
     <td>2024.11-11</td>
-    <td>LikeLion 12th 간지톤(연합 해커톤)</td>
+    <td>LikeLion 12th PYTHON(연합 해커톤)</td>
     <td>별책부록</td>
     <td>대상</td>
   </tr>
