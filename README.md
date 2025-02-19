@@ -69,9 +69,6 @@
 - **설명**: 삼육대 멋쟁이사자처럼 12기 아기사자(부원) 모집 페이지
 - **역할**: 2024-1 멋사 12기 운영진 (백엔드)
 - **GitHub Repo**: [백엔드_repo](https://github.com/syu-likelionz-12th/12th_recruit_backend.git)
-
----
-
 #### 💬 W.A.D (We Are Developers)
 - **설명**: 개발 초보자를 위한 ChatGPT 기반 커뮤니티 사이트
 - **역할**: 2024-1 교내 SW 경진대회 "못난이사자들" 팀 백엔드 참여
