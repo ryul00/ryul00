@@ -41,7 +41,71 @@
 </div> 
 
 <div align=left> 
-  <img s톤(연합 해커톤)</td>
+  <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white">
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white">
+  <img src="https://img.shields.io/badge/intellij idea-000000.svg?&style=for-the-badge&logo=intellij idea&logoColor=white">
+</div> 
+
+---
+
+### 👥 Activities
+- **LikeLion 11th** (2023.03 - 2023.12)  
+  - 직책 : 백엔드 부원
+  - 활동 :  파이썬 기초 ~ django를 이용한 실습 진행 , 연합 해커톤 참가 등
+- **LikeLion 12th** (2023.12 - 2024.12)  
+  - 직책 : 부회장 / 백엔드 운영진
+  - 활동 : 모집 페이지 프로젝트, 부원 모집 및 면접 진행 , Java,Spring 세션 진행, 연합 해커톤 팀장 참여 등  
+- **LikeLion 13th** (2024.12 ~)  
+  - 직책 : 프론트엔드 운영진
+- **2025-1 영상의학 AI API연동 프로젝트 기반 자바(Java) 풀스택 개발자 과정** (2024.12 ~ 2025.09)  
+  - 활동 : 1차 프로젝트(P-eeting) , 중간 프로젝트 , 3차 프로젝트 진행    
+  
+
+---
+
+### 🚀 Projects
+
+#### 🦁 삼육대 멋사 12기 모집 페이지
+- **설명**: 삼육대 멋쟁이사자처럼 12기 아기사자(부원) 모집 페이지
+- **역할**: 2024-1 멋사 12기 운영진 (백엔드)
+- **GitHub Repo**: [백엔드_repo](https://github.com/syu-likelionz-12th/12th_recruit_backend.git)
+#### 🦁 삼육대 멋사 13기 모집 페이지
+- **설명**: 삼육대 멋쟁이사자처럼 13기 아기사자(부원) 모집 페이지
+- **역할**: 2025-1 멋사 13기 운영진 (프론트엔드)
+- **서비스 링크**: [🔗 삼육대 멋사 13기 모집 페이지](https://syu-likelion.org/)
+#### 💬 W.A.D (We Are Developers)
+- **설명**: 개발 초보자를 위한 ChatGPT 기반 커뮤니티 사이트
+- **역할**: 2024-1 교내 SW 경진대회 "못난이사자들" 팀 백엔드 참여
+- **서비스 링크**: [🔗 W.A.D 바로가기](https://wad-uglylion-e5cf0llq1-no4hs-projects.vercel.app/)
+#### 📚 별책부록
+- **설명**: AI 도서 추천 및 독서대 서비스
+- **역할**: 2024 멋쟁이사자처럼 간지톤(연합 해커톤) "상부삼조" 팀 백엔드 참여
+- **GitHub Repo**: [별책부록_repo](https://github.com/ryul00/3_Team_FE_final.git)
+#### 🤝 P-eeting
+- **설명**: 프리랜서 개발자와 기업 간 프로젝트 매칭 서비스
+- **역할**: 2025-1 자바(Java) 풀스택 개발자 과정 1차 프로젝트 프론트엔드 참여
+- **서비스 링크**: [🔗 P+eeting 바로가기](https://peeting-5f69fb087-no4hs-projects.vercel.app/)
+
+
+---
+
+### 🏆 Awards
+<table align="left">
+  <tr>
+    <th>When</th>
+    <th>Where</th>
+    <th>Project Name</th>
+    <th>Award</th>
+  </tr>
+  <tr>
+    <td>2024.05-16</td>
+    <td>교내 SW경진대회</td>
+    <td>WAD(What are you doing?)</td>
+    <td>우수상(3위)</td>
+  </tr>
+  <tr>
+    <td>2024.11-11</td>
+    <td>LikeLion 12th PYTHON(연합 해커톤)</td>
     <td>별책부록</td>
     <td>대상</td>
   </tr>
@@ -57,4 +121,3 @@
 - GitHub: ryul00 (https://github.com/ryul00)
 
 ---
-
