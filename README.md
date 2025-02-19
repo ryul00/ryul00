@@ -64,11 +64,11 @@
 ---
 
 ### 🚀 Projects
-- **삼육대 멋사 12기 모집 페이지** : 12기 아기사자(부원) 모집을 위한 페이지 – 2024-1 멋사 12기 운영진 백엔드 참여
+- **삼육대 멋사 12기 모집 페이지** : 12기 아기사자(부원) 모집을 위한 페이지 – 2024-1 멋사 12기 운영진 백엔드 참여<br>
   **GitHub레포** :  [백엔드_repo](https://github.com/syu-likelionz-12th/12th_recruit_backend.git)
 - **W.A.D**: 개발 초보자를 위한 ChatGpt기반 커뮤니티 사이트 - 2024-1 교내 SW경진대회 못난이사자들팀 백엔드 참여 <br>
   **링크** :  [W.A.D 바로 가기](https://wad-uglylion-e5cf0llq1-no4hs-projects.vercel.app/)
-- **별책부록**: AI 도서 추천 및 독서대 서비스 – 2024 멋쟁이사자처럼 간지톤(연합 해커톤) 상부삼조팀 백엔드 참여
+- **별책부록**: AI 도서 추천 및 독서대 서비스 – 2024 멋쟁이사자처럼 간지톤(연합 해커톤) 상부삼조팀 백엔드 참여 <br>
   **GitHub레포** :  [별책부록_repo](https://github.com/ryul00/3_Team_FE_final.git)
 - **P-eeting**: 프리랜서 개발자와 기업 간의 프로젝트 매칭 서비스  – 2025-1 자바(Java) 풀스택 개발자 과정 1차 프로젝트 프론트엔드 참여 <br>
   **링크** : [P+eeting 바로 가기](https://peeting-5f69fb087-no4hs-projects.vercel.app/)
