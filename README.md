@@ -63,28 +63,28 @@
 
 ---
 
-# 🚀 Projects
+### 🚀 Projects
 
-## 🎉 삼육대 멋사 12기 모집 페이지
+#### 🎉 삼육대 멋사 12기 모집 페이지
 - **설명**: 삼육대 멋쟁이사자처럼 12기 아기사자(부원) 모집 페이지
 - **역할**: 2024-1 멋사 12기 운영진 (백엔드)
 - **GitHub Repo**: [백엔드_repo](https://github.com/syu-likelionz-12th/12th_recruit_backend.git)
 
 ---
 
-## 💬 W.A.D (We Are Developers)
+#### 💬 W.A.D (We Are Developers)
 - **설명**: 개발 초보자를 위한 ChatGPT 기반 커뮤니티 사이트
 - **역할**: 2024-1 교내 SW 경진대회 "못난이사자들" 팀 백엔드 참여
 - **서비스 링크**: [🔗 W.A.D 바로가기](https://wad-uglylion-e5cf0llq1-no4hs-projects.vercel.app/)
-## 📚 별책부록
+#### 📚 별책부록
 - **설명**: AI 도서 추천 및 독서대 서비스
 - **역할**: 2024 멋쟁이사자처럼 간지톤(연합 해커톤) "상부삼조" 팀 백엔드 참여
 - **GitHub Repo**: [별책부록_repo](https://github.com/ryul00/3_Team_FE_final.git)
-## 🤝 P-eeting
+#### 🤝 P-eeting
 - **설명**: 프리랜서 개발자와 기업 간 프로젝트 매칭 서비스
 - **역할**: 2025-1 자바(Java) 풀스택 개발자 과정 1차 프로젝트 프론트엔드 참여
 - **서비스 링크**: [🔗 P+eeting 바로가기](https://peeting-5f69fb087-no4hs-projects.vercel.app/)
-## 🦁 삼육대 멋사 13기 모집 페이지
+#### 🦁 삼육대 멋사 13기 모집 페이지
 - **설명**: 삼육대 멋쟁이사자처럼 13기 아기사자(부원) 모집 페이지
 - **역할**: 2025-1 멋사 13기 운영진 (프론트엔드)
 - **서비스 링크**: [🔗 삼육대 멋사 13기 모집 페이지](https://syu-likelion.org/)
