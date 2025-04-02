@@ -73,7 +73,7 @@
 - **설명**: 개발 초보자를 위한 ChatGPT 기반 커뮤니티 사이트
 - **역할**: 2024-1 교내 SW 경진대회 "못난이사자들" 팀 백엔드 참여
 - **서비스 링크**: [🔗 W.A.D 바로가기](https://wad-uglylion-e5cf0llq1-no4hs-projects.vercel.app/)
-- **GitHub Repo**: [백엔드_repo](https://github.com/syu-likelionz-12th/12th_recruit_backend.git)
+- **GitHub Repo**: [WAD백엔드_repo](https://github.com/W-A-D/WAD_Back)
 #### 📚 별책부록
 - **설명**: AI 도서 추천 및 독서대 서비스
 - **역할**: 2024 멋쟁이사자처럼 간지톤(연합 해커톤) "상부삼조" 팀 백엔드 참여
