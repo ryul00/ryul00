@@ -93,7 +93,11 @@
 - **역할**: 풀스택 개발 -> CocosCreator 기반 게임 UI 구현 , Node.js 기반 서버 구축, Socket.io 기반 실시간 이벤트 처리 구조 구현 등
 - **백엔드 Repo**: https://github.com/ryul00/Backend_Repo.git
 - **프론트엔드 Repo**: https://github.com/ryul00/capstone_Front_Repo.git
----
+#### 🏡 촌캉스 코스 추천 서비스 "촌스레 with 전남
+- **설명**: 전라남도 중심 촌캉스를 위한 AI 기반 맞춤형 여행 코스 추천 서비스
+- **역할**: 2025 관광 데이터 활용 공모전 "두유즈" 팀 백엔드 개발 담당
+- **서비스 링크**: [🌿촌스레 서비스 바로가기](https://www.chonsre.org/)
+--- 
 
 ### 🏆 Awards
 <table align="left">
