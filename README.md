@@ -109,16 +109,22 @@
     <th>Award</th>
   </tr>
   <tr>
-    <td>2024.05-16</td>
-    <td>교내 SW경진대회</td>
+    <td>2024.05</td>
+    <td>2024 교내 SW경진대회</td>
     <td>WAD(What are you doing?)</td>
     <td>우수상(3위)</td>
   </tr>
   <tr>
-    <td>2024.11-11</td>
+    <td>2024.11</td>
     <td>LikeLion 12th 파이톤(연합 해커톤)</td>
     <td>별책부록</td>
     <td>대상</td>
+  </tr>
+    <tr>
+    <td>2025.08</td>
+    <td>2025 교내 SW경진대회</td>
+    <td>잡담>잡담>t
+    <td>우수상(3위)</td>
   </tr>
 </table>
 
