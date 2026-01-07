@@ -2,7 +2,7 @@
 
 👨‍💻 **Computer Engineering Department, Samyook University**  
 🎓 **Software Major**  
-🔗 **Portfolio 바로가기** : [https://ryulsdev.site/](https://ryulsdev.site/)
+🔗 **홈페이지 바로가기** : [https://ryulsdev.site/](https://ryulsdev.site/)
 
 
 
