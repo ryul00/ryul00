@@ -1,8 +1,9 @@
 ## GwangRyul Yu | 2000.10.09
 
 👨‍💻 **Computer Engineering Department, Samyook University**  
-🎓 **Software Major**
+🎓 **Software Major**  
 🔗 **Portfolio 바로가기** : [https://ryulsdev.site/](https://ryulsdev.site/)
+
 
 
 
