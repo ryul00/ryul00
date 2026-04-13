@@ -1,6 +1,6 @@
 ## GwangRyul Yu | 2000.10.09
 
-👨‍💻 **Computer Engineering Department, Samyook University**  
+👨‍💻 **B.S. in Computer Engineering, Sahmyook University**  
 🎓 **Software Major**  
 🔗 **홈페이지 바로가기** : [https://ryulsdev.site/](https://ryulsdev.site/)
 
