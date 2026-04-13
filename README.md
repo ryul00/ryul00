@@ -2,7 +2,7 @@
 
 👨‍💻 **B.S. in Computer Engineering, Sahmyook University**  
 🎓 **Software Major**  
-🔗 **홈페이지 바로가기** : [https://ryulsdev.site/](https://ryulsdev.site/)
+🔗 **포트폴리오 사이트 바로가기** : [https://ryulsdev.site/](https://ryulsdev.site/)
 
 
 ### 📚 Stacks
